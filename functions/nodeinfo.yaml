@@ -5,4 +5,4 @@ metadata:
   namespace: openfaas-fn
 spec:
   name: nodeinfo
-  image: functions/nodeinfo:latest
+  image: ghcr.io/openfaas/nodeinfo:latest
